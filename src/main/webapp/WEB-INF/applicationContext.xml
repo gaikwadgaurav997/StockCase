@@ -40,6 +40,9 @@
 		<property name="annotatedClasses">
 			<list>
 				<value>com.capgemini.stock.entity.ProductStockEntity</value>
+				<value>com.capgemini.stock.entity.RawMaterialStockEntity</value>
+				<value>com.capgemini.stock.entity.RawMaterialOrderEntity</value>
+				<value>com.capgemini.stock.entity.ProductOrdersEntity</value>
 			<!--  <value>com.capgemini.go.dto.RetailerInventoryDTO</value>  -->
 			</list>
 		</property>
